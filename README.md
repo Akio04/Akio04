@@ -1,4 +1,5 @@
 # Akio Harada - Akio04
+<img src="https://avatars.githubusercontent.com/u/69581533?s=400&u=a82aa94e6e2247a9ad31c89a7ebe445b02f142b9&v=4" width="160" heitgh="160" alt="プロフィール画像"/>
 
 ## 自己紹介
 情報系の大学に通っているプログラマ／エンジニアの卵です。
@@ -17,3 +18,5 @@
 ----|----
 | 2021/3 | 基本情報技術者試験（FE） 合格 |
 
+## 外部リンク
+[Qiita](https://qiita.com/Akio04)
